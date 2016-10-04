@@ -53,3 +53,4 @@ public class ProductBean implements Serializable {
 		this.expire = expire;
 	}
 }
+

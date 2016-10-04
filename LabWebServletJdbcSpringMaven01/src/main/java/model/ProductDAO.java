@@ -15,4 +15,5 @@ public interface ProductDAO {
 
 	public abstract boolean delete(int id);
 
+
 }
